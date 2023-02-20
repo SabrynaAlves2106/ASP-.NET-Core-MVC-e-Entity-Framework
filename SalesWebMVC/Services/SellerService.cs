@@ -5,7 +5,6 @@ using SalesWebMvc.Services.Exceptions;
 using System.Threading.Tasks;
 using SalesWebMvc.Data;
 using SalesWebMvc.Models;
-using SalesWebMvc.Models.ViewModels;
 
 namespace SalesWebMvc.Services
 {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
-namespace SalesWebMvc.Models.ViewModels
+namespace SalesWebMvc.Models
 {
     public class Seller
     {

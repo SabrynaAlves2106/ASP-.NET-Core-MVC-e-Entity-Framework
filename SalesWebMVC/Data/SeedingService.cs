@@ -1,6 +1,5 @@
 ﻿using SalesWebMvc.Models;
 using SalesWebMvc.Models.Enums;
-using SalesWebMvc.Models.ViewModels;
 using System;
 using System.Linq;
 
